@@ -1,25 +1,8 @@
-# README
+I am working on an ideas app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To do
+API backend using ruby on rails
+- Create, delete, edit ideas
+- more to come
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ideas-garden
+setup:
